@@ -2,8 +2,8 @@
 -  StampVault: North America  -
 -------------------------------
 
-This is part of the stamp data used by StampVault: https://github.com/StampVault/StampVault.git
+This is part of the stamp data used by StampVault: GitHub (https://github.com/StampVault/StampVault.git) / GitLab (https://gitlab.com/StampVault/StampVault.git).
 
 This repository contains the data for North America. To use this data with StampVault, clone this repository into the `stamps/data` subdirectory of StampVault.
 
-See the documentation of StampVault for more information: https://github.com/StampVault/StampVault.git
+See the documentation of StampVault for more information.
